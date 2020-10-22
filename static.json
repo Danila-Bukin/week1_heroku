@@ -1,7 +1,8 @@
 {
   "headers": {
     "*/": {
-      "X-Author": "Букин, Данила Юрьевич"
+      "X-Author": "Букин, Данила Юрьевич",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
